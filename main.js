@@ -30,3 +30,17 @@ const displayPost = () => {
 }
 
 // Your job now is to follow the functions above and use them as templates to build the functionality the buttons in the index.html file already have laid out in it. This way you can learn how to build fetch requests and work with other apis and become a real developer!!
+const fetch5Posts = () => {
+}
+
+const fetchComments = () => {
+
+}
+
+const fetchComments = () => {
+
+}
+
+const fetchUsers = () => {
+  
+}
